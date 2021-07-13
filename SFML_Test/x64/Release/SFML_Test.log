@@ -1,7 +1,15 @@
 ﻿  Main.cpp
+D:\Munka\C++\Game\2d\SFML\SFML_Test\SFML_Test\Main.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Munka\C++\Game\2d\SFML\SFML_Test\SFML_Test\Main.cpp(51,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Munka\C++\Game\2d\SFML\SFML_Test\SFML_Test\Main.cpp(76,67): warning C4305: '=': truncation from 'double' to 'float'
+D:\Munka\C++\Game\2d\SFML\SFML_Test\SFML_Test\Main.cpp(120,38): warning C4305: '=': truncation from 'double' to 'float'
+D:\Munka\C++\Game\2d\SFML\SFML_Test\SFML_Test\Main.cpp(132,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Munka\C++\Game\2d\SFML\SFML_Test\SFML_Test\Main.cpp(132,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Munka\C++\Game\2d\SFML\SFML_Test\SFML_Test\Main.cpp(140,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Munka\C++\Game\2d\SFML\SFML_Test\SFML_Test\Main.cpp(140,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating code
-  2 of 71 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
+  1 of 73 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   SFML_Test.vcxproj -> D:\Munka\C++\Game\2d\SFML\SFML_Test\x64\Release\SFML_Test.exe
